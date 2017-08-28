@@ -1,0 +1,6 @@
+-74.017190, 40.724089,W,FALSE,G,5,Extra-Chunky,Putrid,5,Mucus,0.395,0.502,5,Mucus,0.847,0.602,2,Mucus,0.669,0.383,4,Extra-Chunky,Putrid,5
+-74.017190, 40.725277,W,FALSE,G,5,Extra-Chunky,Putrid,1,Extra-Chunky,Musky,5,Slime,0.336,5,Mucus,0.103,0.398,1,Extra-Chunky,Musky,5
+-73.989398, 40.700323,W,FALSE,A,5,Starship,1,Abydos,Starship,0,Abydos,Stargate,Abydos,Starship,0,Baltian,Starship,1,Pandora
+-73.989398, 40.701511,W,FALSE,A,2,Lair,3104,Victory,Pandora,Starship,2,Vuclan
+-73.952341, 40.776375,W,FALSE,H,5,0,-4,-5,-1,-5
+-73.947709, 40.722901,B,FALSE,H,5,-1,-1,-2,-4,-4
